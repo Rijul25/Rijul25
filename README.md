@@ -11,9 +11,9 @@
 
 <br />
 
-Hi, I'm Rijul singh malik, working on technologies in Data science and Machine learning 🚀 from New delhi, India, currently, I'm a Data science intern at  🙍🏽‍♂️ [@Mercer](https://www.mercer.com), 👨🏽‍💻 Content Writer at [@Medium](https://medium.com/@rijulsingh1) 👨🏽‍💼Former Research Intern at [@UC,Berkeley](https://www.berkeley.edu) .
+Hi, I'm Rijul singh malik, graduate student at University of California , Irvine from India . I have wokred previously at [@EY](https://www.ey.com/en_in/locations/india) as an Associate .I'm a former Data science intern at  🙍🏽‍♂️ [@Mercer](https://www.mercer.com), 👨Big Data Intern at [@Ericsson](https://www.ericsson.com/en) and 👨🏽‍💼Former Research Intern at [@Genpact](https://www.genpact.com)
 
-Beside's Computer Science, I love to Travel and listen to Music.
+Beside's Data Science Science, I love to Travel and listen to Music.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
@@ -23,11 +23,11 @@ Beside's Computer Science, I love to Travel and listen to Music.
 - 🌱 I’m currently learning Data science
 - 👯 I’m looking to collaborate on Data science , Machine learning projects
 - 🤔 I’m looking for help with jobs and internships in Data Science
-- 💬 Ask me about Deep learning , computer vision
+- 💬 Ask me about Deep learning , Data visualisation
 - 📫 How to reach me: https://www.linkedin.com/in/rijul-singh-malik-8a67b916b/
 - ⚡ Fun fact: I love to travel
 - 📫 Contact for queries : rijulsingh1@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1aJPPY72Gr3VE8IgrTIxJ4YlQxungeA-g/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/drive/folders/19OmQPSidvDi4rIXWiadEP8da0iVUaIec?usp=sharing)
 
 
 **Languages and Tools:**
