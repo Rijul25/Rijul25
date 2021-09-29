@@ -20,14 +20,13 @@ Beside's Data Science Science, I love to Travel and listen to Music.
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on Data science and machine learning projetcs
-- 🌱 I’m currently learning Data science
+- 🌱 I’m currently pursuing MS Data Science from UC , Irvine
 - 👯 I’m looking to collaborate on Data science , Machine learning projects
 - 🤔 I’m looking for help with jobs and internships in Data Science
 - 💬 Ask me about Deep learning , Data visualisation
-- 📫 How to reach me: https://www.linkedin.com/in/rijul-singh-malik-8a67b916b/
+- 📫 How to reach me: https://www.linkedin.com/in/rijulsinghmalik/
 - ⚡ Fun fact: I love to travel
 - 📫 Contact for queries : rijulsingh1@gmail.com
-- 📝[Resume](https://drive.google.com/drive/folders/19OmQPSidvDi4rIXWiadEP8da0iVUaIec?usp=sharing)
 
 
 **Languages and Tools:**
