@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm Rijul singh malik, graduate from University of California with MS Data Science,Irvine. I have wokred previously as a Data Science Intern [@Quest](https://www.questdiagnostics.com),[@EY](https://www.ey.com/en_in/locations/india) as a Data Science Associate .I'm a former Data science intern at  🙍🏽‍♂️ [@Mercer](https://www.mercer.com), 👨Big Data Intern at [@Ericsson](https://www.ericsson.com/en) and 👨🏽‍💼Former Research Intern at [@Genpact](https://www.genpact.com)
+Hi, I'm Rijul singh malik, graduate from University of California with MS Data Science,Irvine. I have wokred previously as a Data Science Intern [@Quest](https://www.questdiagnostics.com), [@EY](https://www.ey.com/en_in/locations/india) as a Data Science Associate .I'm a former Data science intern at  🙍🏽‍♂️ [@Mercer](https://www.mercer.com), 👨Big Data Intern at [@Ericsson](https://www.ericsson.com/en) and 👨🏽‍💼Former Research Intern at [@Genpact](https://www.genpact.com)
 
 Beside's Data Science Science, I love to Travel and listen to Music.
 
