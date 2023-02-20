@@ -19,8 +19,8 @@ Beside's Data Science Science, I love to Travel and listen to Music.
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on Data science and machine learning projetcs
-- 👯 I’m looking to collaborate on Data science , Machine learning projects
+- 🔭 I love to Create Content on [@Youtube](https://www.youtube.com/channel/UCNBksfAvvVLlrVN0n6jLiwg) and also Write Tech Blogs on [@Medium](https://medium.com/@rijulsinghmalik)
+- 👨‍🎓 I am seeking to leverage my Data Science, Machine Learning project experience to advance my career growth in Data Science or Technical Project Management.
 - 🤔 I’m looking for help with jobs in Data Science/Engineering.
 - 💬 Ask me about Deep learning , Data visualisation and Big Data
 - 📫 How to reach me: https://www.linkedin.com/in/rijulsinghmalik/
