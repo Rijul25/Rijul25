@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm Rijul singh malik, graduate student at University of California , Irvine from India . I have wokred previously at [@EY](https://www.ey.com/en_in/locations/india) as an Associate .I'm a former Data science intern at  🙍🏽‍♂️ [@Mercer](https://www.mercer.com), 👨Big Data Intern at [@Ericsson](https://www.ericsson.com/en) and 👨🏽‍💼Former Research Intern at [@Genpact](https://www.genpact.com)
+Hi, I'm Rijul singh malik, graduate from University of California with MS Data Science,Irvine. I have wokred previously as a Data Science Intern [@Quest](https://www.questdiagnostics.com),[@EY](https://www.ey.com/en_in/locations/india) as a Data Science Associate .I'm a former Data science intern at  🙍🏽‍♂️ [@Mercer](https://www.mercer.com), 👨Big Data Intern at [@Ericsson](https://www.ericsson.com/en) and 👨🏽‍💼Former Research Intern at [@Genpact](https://www.genpact.com)
 
 Beside's Data Science Science, I love to Travel and listen to Music.
 
@@ -20,13 +20,12 @@ Beside's Data Science Science, I love to Travel and listen to Music.
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on Data science and machine learning projetcs
-- 🌱 I’m currently pursuing MS Data Science from UC , Irvine
 - 👯 I’m looking to collaborate on Data science , Machine learning projects
-- 🤔 I’m looking for help with jobs and internships in Data Science
-- 💬 Ask me about Deep learning , Data visualisation
+- 🤔 I’m looking for help with jobs in Data Science/Engineering.
+- 💬 Ask me about Deep learning , Data visualisation and Big Data
 - 📫 How to reach me: https://www.linkedin.com/in/rijulsinghmalik/
 - ⚡ Fun fact: I love to travel
-- 📫 Contact for queries : rijulsingh1@gmail.com
+- 📫 Contact for queries : rijulsinghmalik5@gmail.com
 
 
 **Languages and Tools:**
